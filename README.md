@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="LibIMobileAssets/company/creativ3lab-logo.png" width="100" alt="Creativ3 Lab">
+<img src="LibIMobile-Preview/Assets/OrganizationLogo/creativ3lab-logo.png" width="100" alt="Creativ3 Lab">
 
 ```
 ██╗     ██╗██████╗ ██╗███╗   ███╗ ██████╗ ██████╗ ██╗██╗     ███████╗
