@@ -195,7 +195,7 @@
 | Connectivity | `imobile-carplay`, `imobile-airdrop`, `imobile-airplay`, `imobile-continuity` |
 | Hardware Repair | `imobile-jcid`, `imobile-programmer-compat`, `imobile-nand`, `imobile-sep` |
 | Analytics | `imobile-analytics`, `imobile-crash-reporter` |
-| Misc | `imobile-ane`, `imobile-lidar`, `imobile-maps`, `imobile-uwb`, `imobile-facetime` |
+| Misc | `imobile-ane`, `imobile-lidar`, `imobile-maps`, `imobile-uwb`, `imobile-faceetime` |
 | Enterprise | `imobile-kiosk`, `imobile-shared-ipad`, `imobile-zero-touch` |
 
 ---
